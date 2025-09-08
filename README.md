@@ -39,12 +39,14 @@
 
 ## 🚀 Featured Projects  
 
-🔹 [**Tepo Store**](https://tepo.vercel.app/) – Ecommerce App With Fake Data Build With data Base Using Nodejs and Next.ts for frontend .
-🔹 [**Be Chef**](https://b-chief.vercel.app/) – I't An App For Food It's like a Blog Build with real data and display Youtube Videos For How to Be A Good Chef.  
-🔹 [**Cinema Mix**](https://cinema-mix-2023.vercel.app) – It's A blog Display Most Trending on Cinemas .  
-🔹 [**Online Shopping**](https://e-commerce-gray-alpha.vercel.app/) – Ecommerce App With Fake Data Build With data Base Using Nodejs and React.js for frontend .  
-🔹 [**GAME REVIEWS**](https://games-for-fun.vercel.app/) – It's A blog Display Most Good Games On the World .  
-🔹 [**Agents Hub**](https://agent-hub-iota.vercel.app/) – It's A Dashboard Display Call Center For Hospital Ypu Can Access It By Add admin as user an PW .  
+🔹 [**Tepo Store**](https://tepo-beta.vercel.app/) – Ecommerce App With Fake Data Build With data Base Using Nodejs and Next.ts for frontend .                
+🔹 [**Be Chef**](https://b-chef.vercel.app/) – I't An App For Food It's like a Blog Build with real data and display Youtube Videos For How to Be A Good Chef.  
+🔹 [**Cinema Mix**](https://cinema-mix-ashy.vercel.app/) – It's A blog Display Most Trending on Cinemas .  
+🔹 [**Online Shopping**](https://online-shopping-eta-seven.vercel.app/) – Ecommerce App With Fake Data Build With data Base Using Nodejs and React.js for frontend .  
+🔹 [**GAME REVIEWS**](https://game-reviews-chi-seven.vercel.app/) – It's A blog Display Most Good Games On the World .  
+🔹 [**Agents Hub**](https://agent-hub-4my6.vercel.app) – It's A Dashboard Display Call Center For Hospital Ypu Can Access It By Add admin as user an PW .  
+🔹 [**Lightning**](https://lightning-topaz.vercel.app/) – It's A Website Display weather in the countries while you search for  .  
+🔹 [**Yammy**](https://yammy-six.vercel.app/) – I't An App For Food It's like a Blog Build with real data and display Youtube Videos For How to Be A Good Chef  .  
 
  
 ---
