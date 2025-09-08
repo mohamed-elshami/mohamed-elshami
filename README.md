@@ -3,7 +3,9 @@
 💻 MERN Stack Developer | Frontend & Backend Engineer  
 🌍 2+ years of freelancing experience + currently at **Creiden (since May 2024)**  
 ⚡ Passionate about building scalable web apps, sleek UIs, and smooth user experiences  
-
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 ---
 
 ## 🛠 Tech Stack  
