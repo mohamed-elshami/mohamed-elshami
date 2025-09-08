@@ -53,8 +53,8 @@
 
 ## 📊 GitHub Stats  
 
-![Mohamed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-elshami&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elshami&layout=compact&theme=radical)  
+![Mohamed’s GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamed-elshami&show_icons=false&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-elshami&theme=radical)  
 
 ---
 
